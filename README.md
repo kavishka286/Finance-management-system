@@ -1,4 +1,4 @@
-# Senavirathna K.T.M.K
+# Finance management system
 
 ## Setup Instructions
 
